@@ -1,1 +1,1 @@
-Solutions to Rosalind's python village problems, written while learning python
+Solutions to Rosalind's problems (python village and bioinformatics stronghold), written while learning python
